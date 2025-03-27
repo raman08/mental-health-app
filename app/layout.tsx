@@ -45,21 +45,21 @@ export default function RootLayout({
 							<div className="flex items-center gap-2">
 								<Heart className="h-6 w-6 text-teal-500" />
 								<span className="text-xl font-bold">
-									MindfulMe
+									Mentalink
 								</span>
 							</div>
 							<nav className="hidden md:flex gap-6">
 								<Link
-									href="#features"
+									href="#Rant"
 									className="text-sm font-medium hover:text-teal-500 transition-colors"
 								>
-									Features
+									Rant
 								</Link>
 								<Link
-									href="#testimonials"
+									href="#Emotion_Detection"
 									className="text-sm font-medium hover:text-teal-500 transition-colors"
 								>
-									Testimonials
+									Emotion Detection
 								</Link>
 								<Link
 									href="#"
