@@ -1,3 +1,4 @@
+'use client';
 import Link from "next/link";
 import Image from "next/image";
 import { Brain, Heart, MessageCircle, Shield, Star, Users } from "lucide-react";
